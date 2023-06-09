@@ -1,4 +1,4 @@
-public class cu{
+public class Main{
     public static void main(String[] args) {
         fighter f1 = new fighter("Mark", 15, 100, 90, 20);
         fighter f2 = new fighter("Alex", 10, 95, 100, 25);
